@@ -1,4 +1,4 @@
-### Aula 01 do Workshop
+### Aula 0x do Workshopkkkk
 
 - Aprendendo a inicializar o git repo.
 - Aprendi o que é um commit
